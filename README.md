@@ -5,6 +5,7 @@
 - Fork and clone this project locally
 - All code should be written in Typescript
 - No ejecting out of Expo
+- Showcase good UI/UX skills by developing visually appealing interfaces by using UI libraries such as [UI Kitten](https://akveo.github.io/react-native-ui-kitten/docs/getting-started/what-is-ui-kitten#what-is-ui-kitten) or icon libraries like [react-native-vector-icons](https://oblador.github.io/react-native-vector-icons/)
 - Install and integrate [React Navigation](https://reactnavigation.org/docs/getting-started)
 - Install and integrate [Lottie](https://docs.expo.io/versions/latest/sdk/lottie/)
 - Install and integrate [Moti](https://github.com/nandorojo/moti)
